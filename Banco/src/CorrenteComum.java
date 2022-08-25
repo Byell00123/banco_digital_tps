@@ -20,5 +20,9 @@ public class CorrenteComum extends ContaBancaria{
         System.out.printf("\nDeposito de R$ "+ valor+" feito.\nSaldo atual de: "+getSaldo()+"\n");
 
     }
+
+    public void teste(){
+        return true;
+    }
     
 }
