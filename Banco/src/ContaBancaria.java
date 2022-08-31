@@ -1,4 +1,3 @@
-
 public abstract class ContaBancaria {
     public String cliente;
     public int  num_conta;
@@ -18,6 +17,5 @@ public abstract class ContaBancaria {
     public abstract void depositar(Double valor);
 
     public abstract void extrato();
-
-    
+ 
 }
